@@ -1,6 +1,6 @@
 # Projeto 💻
 
-<img src="images/cartao.gif">
+<img src="src/images/cartao.gif">
 
 ## Sobre 🎯
 Projeto de um card, criado atraves do Curso Dev Quest💜
@@ -14,4 +14,4 @@ a forma de uso de posicionar o back-ground na imagem e neste caso tambem aparece
 
 estarei usando como base nos meus projetos futuros 
 
-<img src="images/card-background-olho.png">
+<img src="src/images/card-background-olho.png">
